@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fresh Graduate | Full-Stack Developer I am a recent graduate passionate about building functional, scalable web applications. With a solid foundation in PHP (Laravel) and JavaScript (React/Node), I enjoy turning complex problems into simple, elegant code. I’m currently looking for an entry-level role or internship where I can contribute to real-world projects and grow alongside a senior team.
+I am a recent graduate passionate about building functional, scalable web applications. With a solid foundation in PHP (Laravel) and JavaScript (React/Node), I enjoy turning complex problems into simple, elegant code. I’m currently looking for an entry-level role or internship where I can contribute to real-world projects and grow alongside a senior team.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryansyachd@gmail.com) 
